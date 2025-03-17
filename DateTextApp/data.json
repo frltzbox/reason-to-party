@@ -1,0 +1,1822 @@
+[
+  {
+    "datum": "01.01.",
+    "name": "Neujahr",
+    "beschreibung": "Feiere den Beginn eines neuen Jahres – stoße mit einem Drink auf neue Chancen und frische Abenteuer an."
+  },
+  {
+    "datum": "02.01.",
+    "name": "Zweiter Neujahrstag (Oshogatsu, Japan)",
+    "beschreibung": "Ein weiterer Tag im japanischen Neujahrsfest – ideal, um mit Sake auf das neue Jahr anzustoßen."
+  },
+  {
+    "datum": "03.01.",
+    "name": "Tolkien-Geburtstag",
+    "beschreibung": "Feiere den Geburtstag des Schriftstellers J.R.R. Tolkien – ein Drink als Hommage an Mittelerde."
+  },
+  {
+    "datum": "04.01.",
+    "name": "Welt-Braille-Tag",
+    "beschreibung": "Ein Tag, der Barrierefreiheit feiert – stoße mit einem Drink auf eine inklusive Zukunft an."
+  },
+  {
+    "datum": "05.01.",
+    "name": "National Bird Day",
+    "beschreibung": "Ein Anlass, die Freiheit der Lüfte zu zelebrieren – fliege mit einem Drink in die Nacht."
+  },
+  {
+    "datum": "06.01.",
+    "name": "Epiphanias",
+    "beschreibung": "Feiere das Erscheinen der Heiligen Drei Könige – ein himmlischer Grund, einen Drink zu genießen."
+  },
+  {
+    "datum": "07.01.",
+    "name": "Orthodoxes Weihnachten",
+    "beschreibung": "Ein festlicher Tag in vielen orthodoxen Kulturen – stoße mit einem Drink auf besinnliche Zeiten an."
+  },
+  {
+    "datum": "08.01.",
+    "name": "National Bubble Bath Day",
+    "beschreibung": "Gönn dir ein entspannendes Bad und einen Drink – für pure Verwöhnmomente."
+  },
+  {
+    "datum": "09.01.",
+    "name": "National Static Electricity Day",
+    "beschreibung": "Feiere die kleinen elektrischen Funken des Lebens – ein Drink, um die Spannung zu erhöhen."
+  },
+  {
+    "datum": "10.01.",
+    "name": "National Bittersweet Chocolate Day",
+    "beschreibung": "Ein süßer Anlass, um die bittersüßen Momente des Lebens mit einem Drink zu zelebrieren."
+  },
+  {
+    "datum": "11.01.",
+    "name": "Step in a Puddle and Splash Your Friends Day",
+    "beschreibung": "Erinnere dich an kindliche Freude – plansch in Pfützen und stoße mit einem Drink an."
+  },
+  {
+    "datum": "12.01.",
+    "name": "National Pharmacist Day",
+    "beschreibung": "Feiere die Helden des Gesundheitswesens – gönn dir als Dank einen Drink."
+  },
+  {
+    "datum": "13.01.",
+    "name": "National Sticker Day",
+    "beschreibung": "Klebe dich an den Spaß – sammle Sticker und stoße mit einem Drink auf bunte Ideen an."
+  },
+  {
+    "datum": "14.01.",
+    "name": "Dress Up Your Pet Day",
+    "beschreibung": "Verkleide dein Haustier und feiere mit einem Drink die skurrile Tierwelt."
+  },
+  {
+    "datum": "15.01.",
+    "name": "National Hat Day",
+    "beschreibung": "Zieh deinen schicksten Hut auf und stoße mit einem Drink auf modische Vielfalt an."
+  },
+  {
+    "datum": "16.01.",
+    "name": "National Nothing Day",
+    "beschreibung": "Ein Tag, an dem man „nichts“ tun soll – perfekter Grund, gemütlich bei einem Drink zu entspannen."
+  },
+  {
+    "datum": "17.01.",
+    "name": "National Hot Toddy Day",
+    "beschreibung": "Ein wärmender Drink an einem kalten Tag – stoße mit einem Hot Toddy auf Gemütlichkeit an."
+  },
+  {
+    "datum": "18.01.",
+    "name": "National Winnie the Pooh Day",
+    "beschreibung": "Feiere den Honigbären – ein Drink, süß wie Honig, rundet den Tag ab."
+  },
+  {
+    "datum": "19.01.",
+    "name": "National Popcorn Day",
+    "beschreibung": "Ein knuspriger Anlass – genieße Popcorn und stoße mit einem Drink auf leichte Momente an."
+  },
+  {
+    "datum": "20.01.",
+    "name": "World Religion Day",
+    "beschreibung": "Feiere die Vielfalt der Glaubensrichtungen – ein Drink, der interkulturelle Verbundenheit symbolisiert."
+  },
+  {
+    "datum": "21.01.",
+    "name": "National Squirrel Appreciation Day",
+    "beschreibung": "Huldige den quirlig-flausigen Nagetieren – stoße mit einem Drink auf Nussigkeit an."
+  },
+  {
+    "datum": "22.01.",
+    "name": "Answer Your Cat's Questions Day",
+    "beschreibung": "Höre deinem Stubentiger zu – ein Drink regt zum Nachdenken über die großen Fragen an."
+  },
+  {
+    "datum": "23.01.",
+    "name": "National Pie Day",
+    "beschreibung": "Ein köstlicher Anlass – feiere Pie und stoße mit einem Drink auf süße Genüsse an."
+  },
+  {
+    "datum": "24.01.",
+    "name": "National Compliment Day",
+    "beschreibung": "Verteile ehrliche Komplimente – stoße mit einem Drink auf die Macht der Worte an."
+  },
+  {
+    "datum": "25.01.",
+    "name": "Burns Night",
+    "beschreibung": "Ein schottischer Festtag zu Ehren von Robert Burns – ideal für einen Whisky-Drink."
+  },
+  {
+    "datum": "26.01.",
+    "name": "Australia Day",
+    "beschreibung": "Feiere den australischen Nationalfeiertag – stoße mit einem Drink auf Down Under an."
+  },
+  {
+    "datum": "27.01.",
+    "name": "National Chocolate Cake Day",
+    "beschreibung": "Ein schokoladiger Genuss – feiere Kuchen und stoße mit einem Drink auf süße Momente an."
+  },
+  {
+    "datum": "28.01.",
+    "name": "Data Privacy Day",
+    "beschreibung": "Ein Tag, um den Schutz deiner Daten zu würdigen – stoße mit einem Drink auf Privatsphäre an."
+  },
+  {
+    "datum": "29.01.",
+    "name": "National Puzzle Day",
+    "beschreibung": "Löse das Rätsel des Lebens – ein Drink hilft, die Puzzleteile zusammenzufügen."
+  },
+  {
+    "datum": "30.01.",
+    "name": "National Croissant Day",
+    "beschreibung": "Ein französischer Genuss – feiere Croissants und stoße mit einem Drink auf Genuss an."
+  },
+  {
+    "datum": "31.01.",
+    "name": "National Backward Day",
+    "beschreibung": "Ein Tag, an dem alles andersherum läuft – ideal, um mit einem Drink das Ungewöhnliche zu feiern."
+  },
+  {
+    "datum": "01.02.",
+    "name": "National Freedom Day",
+    "beschreibung": "Feiere die Freiheit – stoße mit einem Drink auf ungebundene Lebensfreude an."
+  },
+  {
+    "datum": "02.02.",
+    "name": "Groundhog Day",
+    "beschreibung": "Wenn das Murmeltier seinen Schatten sieht – ein Drink als Vorboten des Frühlings."
+  },
+  {
+    "datum": "03.02.",
+    "name": "National Carrot Cake Day",
+    "beschreibung": "Ein süßer Anlass – feiere Karottenkuchen und stoße mit einem Drink auf bunte Genüsse an."
+  },
+  {
+    "datum": "04.02.",
+    "name": "National Drink Wine Day",
+    "beschreibung": "Ein Tag, an dem ein Glas Wein die perfekte Begleitung zu guten Gesprächen ist – prost!"
+  },
+  {
+    "datum": "05.02.",
+    "name": "World Nutella Day",
+    "beschreibung": "Feiere den schokoladigen Brotaufstrich – ideal, um mit einem Drink süße Versuchungen zu genießen."
+  },
+  {
+    "datum": "06.02.",
+    "name": "National Chopsticks Day",
+    "beschreibung": "Ein Tag für Esskultur – stoße mit einem Drink auf die Vielfalt der Geschmäcker an."
+  },
+  {
+    "datum": "07.02.",
+    "name": "National Fettuccine Alfredo Day",
+    "beschreibung": "Ein italienischer Genuss – feiere Pasta und stoße mit einem Drink auf cremige Köstlichkeiten an."
+  },
+  {
+    "datum": "08.02.",
+    "name": "National Ice Cream for Breakfast Day",
+    "beschreibung": "Starte verrückt in den Tag – genieße Eis zum Frühstück und einen Drink zur Erfrischung."
+  },
+  {
+    "datum": "09.02.",
+    "name": "National Pizza Day",
+    "beschreibung": "Ein leckerer Anlass – feiere Pizza und stoße mit einem Drink auf mediterranen Genuss an."
+  },
+  {
+    "datum": "10.02.",
+    "name": "National Umbrella Day",
+    "beschreibung": "Hebe dein Glas wie einen Schirm – stoße mit einem Drink auf Schutz vor Regen und Sorgen an."
+  },
+  {
+    "datum": "11.02.",
+    "name": "National Make a Friend Day",
+    "beschreibung": "Ein Tag, um neue Bekanntschaften zu feiern – trinke mit Freunden und genieße die Gemeinschaft."
+  },
+  {
+    "datum": "12.02.",
+    "name": "National Plum Pudding Day",
+    "beschreibung": "Ein süßer Genuss – feiere traditionellen Pudding und stoße mit einem Drink auf süße Erinnerungen an."
+  },
+  {
+    "datum": "13.02.",
+    "name": "National Tortellini Day",
+    "beschreibung": "Ein Pasta-Fest – genieße Tortellini und stoße mit einem Drink auf italienische Lebensfreude an."
+  },
+  {
+    "datum": "14.02.",
+    "name": "Valentinstag",
+    "beschreibung": "Ein Tag der Liebe – perfekt, um mit einem romantischen Drink das Herz feiern zu lassen."
+  },
+  {
+    "datum": "15.02.",
+    "name": "National Gumdrop Day",
+    "beschreibung": "Bunte Süßigkeiten feiern – stoße mit einem Drink auf farbenfrohe Momente an."
+  },
+  {
+    "datum": "16.02.",
+    "name": "National Almond Day",
+    "beschreibung": "Ein nussiger Anlass – feiere Mandeln und stoße mit einem Drink auf knackigen Genuss an."
+  },
+  {
+    "datum": "17.02.",
+    "name": "Random Acts of Kindness Day",
+    "beschreibung": "Verbreite Freundlichkeit – hebe ein Glas auf kleine Taten, die das Leben bereichern."
+  },
+  {
+    "datum": "18.02.",
+    "name": "National Battery Day",
+    "beschreibung": "Lade deine Energie auf – stoße mit einem Drink auf Power und neue Impulse an."
+  },
+  {
+    "datum": "19.02.",
+    "name": "National Chocolate Mint Day",
+    "beschreibung": "Erfrischend und schokoladig – mixe deinen Drink kreativ und feiere süße Aromen."
+  },
+  {
+    "datum": "20.02.",
+    "name": "National Love Your Pet Day",
+    "beschreibung": "Zeige deinem Haustier Liebe – stoße mit einem Drink auf tierische Zuneigung an."
+  },
+  {
+    "datum": "21.02.",
+    "name": "International Mother Language Day",
+    "beschreibung": "Feiere die sprachliche Vielfalt – ein Drink als Toast auf kulturelle Unterschiede."
+  },
+  {
+    "datum": "22.02.",
+    "name": "National Margarita Day",
+    "beschreibung": "Ein Tag, um den klassischen Cocktail zu zelebrieren – perfekt für Tequila-Fans."
+  },
+  {
+    "datum": "23.02.",
+    "name": "National Banana Bread Day",
+    "beschreibung": "Ein Brotgenuss, der Lust macht – stoße mit einem Drink auf süße Backkunst an."
+  },
+  {
+    "datum": "24.02.",
+    "name": "National Tortilla Chip Day",
+    "beschreibung": "Knusprig und lecker – feiere Tortilla Chips und stoße mit einem Drink auf würzige Vielfalt an."
+  },
+  {
+    "datum": "25.02.",
+    "name": "National Clam Chowder Day",
+    "beschreibung": "Ein deftiger Genuss – feiere die cremige Suppe und stoße mit einem Drink auf kulinarische Tiefe an."
+  },
+  {
+    "datum": "26.02.",
+    "name": "National Pistachio Day",
+    "beschreibung": "Knackige Nüsse feiern – stoße mit einem Drink auf aromatische Pistazienfreude an."
+  },
+  {
+    "datum": "27.02.",
+    "name": "National Retro Day",
+    "beschreibung": "Ein nostalgischer Anlass – stoße mit einem Drink auf die guten alten Zeiten an."
+  },
+  {
+    "datum": "28.02.",
+    "name": "National Chocolate Day",
+    "beschreibung": "Feiere Schokolade in all ihren Formen – ein Drink mit Schokogeschmack rundet den Tag ab."
+  },
+  {
+    "datum": "01.03.",
+    "name": "St. David's Day",
+    "beschreibung": "Feiere den walisischen Nationalfeiertag – stoße mit einem Drink auf keltische Traditionen an."
+  },
+  {
+    "datum": "02.03.",
+    "name": "Dr. Seuss Day",
+    "beschreibung": "Ein Tag für fantasievolle Geschichten – feiere Kreativität und stoße mit einem Drink an."
+  },
+  {
+    "datum": "03.03.",
+    "name": "World Wildlife Day",
+    "beschreibung": "Ehre die Tierwelt – ein Drink als Hommage an die wilde Natur."
+  },
+  {
+    "datum": "04.03.",
+    "name": "National Grammar Day",
+    "beschreibung": "Feiere die Macht der Sprache – stoße mit einem Drink auf korrekte Grammatik an."
+  },
+  {
+    "datum": "05.03.",
+    "name": "National Cheese Doodle Day",
+    "beschreibung": "Knuspriger Käsespaß – feiere Cheese Doodles und stoße mit einem Drink auf skurrile Leckereien an."
+  },
+  {
+    "datum": "06.03.",
+    "name": "National Oreo Cookie Day",
+    "beschreibung": "Ein schokoladiger Genuss – feiere Oreo-Kekse und stoße mit einem Drink auf süße Momente an."
+  },
+  {
+    "datum": "07.03.",
+    "name": "National Cereal Day",
+    "beschreibung": "Ein Frühstücks-Spaß – beginne den Tag mit einem Drink und knusprigen Cerealien."
+  },
+  {
+    "datum": "08.03.",
+    "name": "Internationaler Frauentag",
+    "beschreibung": "Feiere die Errungenschaften der Frauen – stoße mit einem Drink auf Gleichberechtigung an."
+  },
+  {
+    "datum": "09.03.",
+    "name": "National Meatball Day",
+    "beschreibung": "Ein fleischiger Anlass – genieße Meatballs und stoße mit einem Drink auf herzhafte Genüsse an."
+  },
+  {
+    "datum": "10.03.",
+    "name": "Mario Day",
+    "beschreibung": "Feiere den berühmten Klempner – it's-a me, Mario! Stoße mit einem Drink auf Videospielkultur an."
+  },
+  {
+    "datum": "11.03.",
+    "name": "World Plumbing Day",
+    "beschreibung": "Würdige die Helden der Sanitärtechnik – stoße mit einem Drink auf fließende Freude an."
+  },
+  {
+    "datum": "12.03.",
+    "name": "National Plant a Flower Day",
+    "beschreibung": "Lass Blumen erblühen – stoße mit einem Drink auf Wachstum und Farbenpracht an."
+  },
+  {
+    "datum": "13.03.",
+    "name": "National Napping Day",
+    "beschreibung": "Gönn dir ein Nickerchen – ein Drink hilft beim Übergang in süße Träumereien."
+  },
+  {
+    "datum": "14.03.",
+    "name": "Pi Day",
+    "beschreibung": "Feiere die mathematische Konstante Pi – ein runder Drink passt perfekt dazu."
+  },
+  {
+    "datum": "15.03.",
+    "name": "Ides of March",
+    "beschreibung": "Ein historischer Tag – stoße mit einem Drink auf Wendepunkte in der Geschichte an."
+  },
+  {
+    "datum": "16.03.",
+    "name": "National Artichoke Hearts Day",
+    "beschreibung": "Ein herzhafter Anlass – feiere Artischockenherzen und stoße mit einem Drink auf ausgefallene Genüsse an."
+  },
+  {
+    "datum": "17.03.",
+    "name": "St. Patrick's Day",
+    "beschreibung": "Der irische Feiertag – ideal, um mit einem Pint Guinness auf das Glück anzustoßen."
+  },
+  {
+    "datum": "18.03.",
+    "name": "National Awkward Moments Day",
+    "beschreibung": "Feiere peinliche Momente – mit einem Drink, der die Stimmung auflockert."
+  },
+  {
+    "datum": "19.03.",
+    "name": "National Poultry Day",
+    "beschreibung": "Ein Geflügelfest – stoße mit einem Drink auf knusprige Freude an."
+  },
+  {
+    "datum": "20.03.",
+    "name": "International Day of Happiness",
+    "beschreibung": "Feiere das Glück in allen Facetten – ein Drink, der das Herz erwärmt."
+  },
+  {
+    "datum": "21.03.",
+    "name": "World Poetry Day",
+    "beschreibung": "Lass Worte fließen – stoße mit einem literarischen Drink auf die Kunst der Poesie an."
+  },
+  {
+    "datum": "22.03.",
+    "name": "World Water Day",
+    "beschreibung": "Ein Tag, der dem Wasser gewidmet ist – stoße mit einem erfrischenden Drink auf das Element an."
+  },
+  {
+    "datum": "23.03.",
+    "name": "National Puppy Day",
+    "beschreibung": "Feiere die Niedlichkeit von Welpen – ein Drink als Hommage an tierische Lebensfreude."
+  },
+  {
+    "datum": "24.03.",
+    "name": "National Cocktail Day",
+    "beschreibung": "Ein Tag für Cocktail-Liebhaber – mixe deinen Lieblingsdrink und stoße an!"
+  },
+  {
+    "datum": "25.03.",
+    "name": "Greek Independence Day",
+    "beschreibung": "Feiere die griechische Geschichte – stoße mit Ouzo auf Freiheit und Tradition an."
+  },
+  {
+    "datum": "26.03.",
+    "name": "National Nougat Day",
+    "beschreibung": "Ein süßer Anlass – genieße Nougat und stoße mit einem Drink auf zarte Genüsse an."
+  },
+  {
+    "datum": "27.03.",
+    "name": "National Paella Day",
+    "beschreibung": "Feiere die spanische Küche – stoße mit Sangria auf kulinarische Leidenschaft an."
+  },
+  {
+    "datum": "28.03.",
+    "name": "Respect Your Cat Day",
+    "beschreibung": "Würdige deinen Stubentiger – ein Drink als Hommage an die königliche Katzenhaltung."
+  },
+  {
+    "datum": "29.03.",
+    "name": "National Mom and Pop Business Owners Day",
+    "beschreibung": "Feiere lokale Unternehmen – stoße mit einem Drink auf Unternehmergeist an."
+  },
+  {
+    "datum": "30.03.",
+    "name": "National Doctors' Day",
+    "beschreibung": "Würdige die Helden im Gesundheitswesen – ein Drink zu Ehren der medizinischen Fürsorge."
+  },
+  {
+    "datum": "31.03.",
+    "name": "National Crayon Day",
+    "beschreibung": "Ein farbenfroher Anlass – feiere Kreativität und stoße mit einem Drink auf die bunte Welt an."
+  },
+  {
+    "datum": "01.04.",
+    "name": "Aprilscherz-Tag",
+    "beschreibung": "Ein Tag voller Schabernack – lache, scherze und stoße mit einem Drink über die verrückten Streiche an."
+  },
+  {
+    "datum": "02.04.",
+    "name": "National Peanut Butter and Jelly Day",
+    "beschreibung": "Feiere den klassischen amerikanischen Genuss – PB&J und ein passender Drink runden den Tag ab."
+  },
+  {
+    "datum": "03.04.",
+    "name": "National Chocolate Mousse Day",
+    "beschreibung": "Ein schokoladiger Genuss – feiere cremige Mousse und stoße mit einem Drink auf süße Versuchungen an."
+  },
+  {
+    "datum": "04.04.",
+    "name": "National Burrito Day",
+    "beschreibung": "Mexikanischer Genuss pur – feiere Burritos und stoße mit einem Drink auf würzige Vielfalt an."
+  },
+  {
+    "datum": "05.04.",
+    "name": "National Deep Dish Pizza Day",
+    "beschreibung": "Ein Tag für Pizza-Liebhaber – feiere den dicken, leckeren Genuss und stoße mit einem Drink an."
+  },
+  {
+    "datum": "06.04.",
+    "name": "National Tartan Day",
+    "beschreibung": "Feiere schottische Traditionen – stoße mit einem Glas Whisky auf keltischen Charme an."
+  },
+  {
+    "datum": "07.04.",
+    "name": "National Beer Day",
+    "beschreibung": "Ein Tag, um Bier in all seinen Facetten zu zelebrieren – prost!"
+  },
+  {
+    "datum": "08.04.",
+    "name": "National Empanada Day",
+    "beschreibung": "Ein knuspriger Genuss – feiere Empanadas und stoße mit einem Drink auf deftige Leckereien an."
+  },
+  {
+    "datum": "09.04.",
+    "name": "National Unicorn Day",
+    "beschreibung": "Magisch und fantastisch – stoße mit einem Drink auf das Unmögliche und zauberhafte Momente an."
+  },
+  {
+    "datum": "10.04.",
+    "name": "National Siblings Day",
+    "beschreibung": "Feiere Geschwisterliebe – teile einen Drink mit deinen Liebsten und genieße den Tag."
+  },
+  {
+    "datum": "11.04.",
+    "name": "National Pet Day",
+    "beschreibung": "Ein Tag, um tierische Freunde zu ehren – stoße mit einem Drink auf die Liebe zu Haustieren an."
+  },
+  {
+    "datum": "12.04.",
+    "name": "Cosmonautics Day",
+    "beschreibung": "Feiere die Raumfahrtpioniere – stoße mit einem Drink an, als würdest du selbst ins All fliegen."
+  },
+  {
+    "datum": "13.04.",
+    "name": "National Peach Cobbler Day",
+    "beschreibung": "Ein süßer Genuss – feiere Pfirsichkuchen und stoße mit einem Drink auf köstliche Zeiten an."
+  },
+  {
+    "datum": "14.04.",
+    "name": "National Pecan Day",
+    "beschreibung": "Knackig und lecker – feiere Pekannüsse und stoße mit einem Drink auf nussige Momente an."
+  },
+  {
+    "datum": "15.04.",
+    "name": "Tax Day",
+    "beschreibung": "Ein stressiger Tag, der nach Entspannung ruft – stoße mit einem Drink auf das Überwinden der Steuerlast an."
+  },
+  {
+    "datum": "16.04.",
+    "name": "National Eggs Benedict Day",
+    "beschreibung": "Feiere den Frühstücksgenuss – stoße mit einem Drink an und genieße einen besonderen Morgenmoment."
+  },
+  {
+    "datum": "17.04.",
+    "name": "National Cheeseball Day",
+    "beschreibung": "Runde Käsefreuden – feiere die leckeren Käsebällchen und stoße mit einem Drink auf herzhafte Genüsse an."
+  },
+  {
+    "datum": "18.04.",
+    "name": "National Animal Crackers Day",
+    "beschreibung": "Verspielt und süß – feiere Animal Crackers und stoße mit einem Drink auf kindliche Freude an."
+  },
+  {
+    "datum": "19.04.",
+    "name": "National Garlic Day",
+    "beschreibung": "Ein würziger Anlass – feiere Knoblauch und stoße mit einem Drink auf kräftige Aromen an."
+  },
+  {
+    "datum": "20.04.",
+    "name": "420 Day",
+    "beschreibung": "Ein alternativer Feiertag – stoße mit einem Drink auf freie Köpfe und alternative Lebensstile an."
+  },
+  {
+    "datum": "21.04.",
+    "name": "National Tea Day",
+    "beschreibung": "Ein britischer Genuss – feiere Tee-Traditionen und stoße mit einem Drink auf Tradition und Geschmack an."
+  },
+  {
+    "datum": "22.04.",
+    "name": "Earth Day",
+    "beschreibung": "Feiere unseren Planeten – stoße mit einem nachhaltigen Drink auf die Erde und ihre Schönheit an."
+  },
+  {
+    "datum": "23.04.",
+    "name": "St. George's Day",
+    "beschreibung": "Feiere den Schutzpatron Englands – hebe dein Glas auf Tapferkeit, Legenden und Tradition an."
+  },
+  {
+    "datum": "24.04.",
+    "name": "National Pigs in a Blanket Day",
+    "beschreibung": "Ein herzhafter Genuss – feiere diese Leckerei und stoße mit einem Drink auf gemütliche Abende an."
+  },
+  {
+    "datum": "25.04.",
+    "name": "National Zucchini Bread Day",
+    "beschreibung": "Ein überraschender Genuss – feiere Zucchinibrot und stoße mit einem Drink auf kreative Küche an."
+  },
+  {
+    "datum": "26.04.",
+    "name": "National Pretzel Day",
+    "beschreibung": "Knusprig und salzig – feiere Brezeln und stoße mit einem Drink auf deftige Genüsse an."
+  },
+  {
+    "datum": "27.04.",
+    "name": "Koningsdag",
+    "beschreibung": "Feiere den niederländischen Königstag – ein perfekter Anlass, um in Orange mit einem Drink anzustoßen."
+  },
+  {
+    "datum": "28.04.",
+    "name": "National Superhero Day",
+    "beschreibung": "Ein heldenhafter Anlass – stoße mit einem Drink auf die Superkräfte in dir an."
+  },
+  {
+    "datum": "29.04.",
+    "name": "International Dance Day",
+    "beschreibung": "Tanze in den Tag – feiere den Rhythmus und stoße mit einem Drink auf bewegte Momente an."
+  },
+  {
+    "datum": "30.04.",
+    "name": "National Honesty Day",
+    "beschreibung": "Ein ehrlicher Anlass – stoße mit einem Drink an und feiere Aufrichtigkeit und Offenheit."
+  },
+  {
+    "datum": "01.05.",
+    "name": "Tag der Arbeit",
+    "beschreibung": "Feiere die Arbeit und den verdienten Erfolg – stoße mit einem Drink auf harte Arbeit an."
+  },
+  {
+    "datum": "02.05.",
+    "name": "National Truffle Day",
+    "beschreibung": "Ein delikater Anlass – feiere die edle Trüffel und stoße mit einem Drink auf feine Genüsse an."
+  },
+  {
+    "datum": "03.05.",
+    "name": "National Egg Roll Day",
+    "beschreibung": "Knuspriger Genuss – feiere Egg Rolls und stoße mit einem Drink auf exotische Leckereien an."
+  },
+  {
+    "datum": "04.05.",
+    "name": "Star Wars Day",
+    "beschreibung": "May the Fourth be with you – stoße mit einem galaktischen Drink auf die Macht an."
+  },
+  {
+    "datum": "05.05.",
+    "name": "Cinco de Mayo",
+    "beschreibung": "Feiere mexikanische Kultur – ein Margarita-Drink bringt Fiesta-Stimmung auf den Tisch."
+  },
+  {
+    "datum": "06.05.",
+    "name": "National Beverage Day",
+    "beschreibung": "Ein Tag, um alle Getränke zu feiern – hebe dein Glas auf die Vielfalt der Aromen an."
+  },
+  {
+    "datum": "07.05.",
+    "name": "National Roast Leg of Lamb Day",
+    "beschreibung": "Ein kulinarischer Genuss – feiere Lammbraten und stoße mit einem Drink auf deftige Spezialitäten an."
+  },
+  {
+    "datum": "08.05.",
+    "name": "National Have a Coke Day",
+    "beschreibung": "Ein sprudelnder Anlass – feiere den Klassiker und stoße mit einem Drink auf erfrischende Momente an."
+  },
+  {
+    "datum": "09.05.",
+    "name": "National Moscato Day",
+    "beschreibung": "Ein süßer Weingenuß – stoße mit einem Glas Moscato auf fröhliche Stunden an."
+  },
+  {
+    "datum": "10.05.",
+    "name": "National Shrimp Day",
+    "beschreibung": "Ein Meeresfrüchte-Fest – feiere Shrimps und stoße mit einem Drink auf das Meer an."
+  },
+  {
+    "datum": "11.05.",
+    "name": "National Eat What You Want Day",
+    "beschreibung": "Ein freier Genuss – iss, was du willst, und stoße mit einem Drink auf die kulinarische Freiheit an."
+  },
+  {
+    "datum": "12.05.",
+    "name": "International Nurses Day",
+    "beschreibung": "Ehre die Pflegekräfte – stoße mit einem Drink auf ihre Hingabe und Fürsorge an."
+  },
+  {
+    "datum": "13.05.",
+    "name": "National Apple Pie Day",
+    "beschreibung": "Ein klassischer Genuss – feiere Apfelkuchen und stoße mit einem Drink auf süße Erinnerungen an."
+  },
+  {
+    "datum": "14.05.",
+    "name": "National Dance Like a Chicken Day",
+    "beschreibung": "Tanze verrückt – stoße mit einem Drink an und feiere die spaßige Seite des Lebens."
+  },
+  {
+    "datum": "15.05.",
+    "name": "International Day of Families",
+    "beschreibung": "Feiere Familie und Freunde – teile einen Drink und genieße das Zusammensein."
+  },
+  {
+    "datum": "16.05.",
+    "name": "National Love a Tree Day",
+    "beschreibung": "Feiere die Natur – stoße mit einem Drink auf grüne Oasen und nachhaltige Freude an."
+  },
+  {
+    "datum": "17.05.",
+    "name": "National Walnut Day",
+    "beschreibung": "Ein nussiger Anlass – feiere Walnüsse und stoße mit einem Drink auf aromatischen Crunch an."
+  },
+  {
+    "datum": "18.05.",
+    "name": "National Cheese Soufflé Day",
+    "beschreibung": "Ein luftiger Genuss – feiere das delikate Soufflé und stoße mit einem Drink auf feine Küche an."
+  },
+  {
+    "datum": "19.05.",
+    "name": "National Devil's Food Cake Day",
+    "beschreibung": "Ein schokoladiger Genuss – feiere den Teufelsschmaus und stoße mit einem Drink auf sündige Süße an."
+  },
+  {
+    "datum": "20.05.",
+    "name": "National Be a Millionaire Day",
+    "beschreibung": "Träume groß – stoße mit einem Drink auf Erfolg, Reichtum und die Zukunft an."
+  },
+  {
+    "datum": "21.05.",
+    "name": "National Waitstaff Day",
+    "beschreibung": "Ehre das Servicepersonal – stoße mit einem Drink auf guten Service und herzliche Gastfreundschaft an."
+  },
+  {
+    "datum": "22.05.",
+    "name": "National Vanilla Pudding Day",
+    "beschreibung": "Ein cremiger Genuss – feiere Vanillepudding und stoße mit einem Drink auf süße Traditionen an."
+  },
+  {
+    "datum": "23.05.",
+    "name": "National Taffy Day",
+    "beschreibung": "Ein klebriger Genuss – stoße mit einem Drink auf bunte Süßigkeiten und fröhliche Stunden an."
+  },
+  {
+    "datum": "24.05.",
+    "name": "National Scavenger Hunt Day",
+    "beschreibung": "Ein abenteuerlicher Tag – finde Spaß und stoße mit einem Drink auf Entdeckungen an."
+  },
+  {
+    "datum": "25.05.",
+    "name": "Towel Day",
+    "beschreibung": "Zu Ehren von Douglas Adams – stoße mit einem Drink auf Fantasie, Humor und intergalaktische Abenteuer an."
+  },
+  {
+    "datum": "26.05.",
+    "name": "National Paper Airplane Day",
+    "beschreibung": "Lass die Papierflieger fliegen – stoße mit einem Drink auf Leichtigkeit und Kindheitsfreude an."
+  },
+  {
+    "datum": "27.05.",
+    "name": "National Grape Popsicle Day",
+    "beschreibung": "Ein erfrischender Genuss – feiere Traubeneis und stoße mit einem Drink auf den Sommer an."
+  },
+  {
+    "datum": "28.05.",
+    "name": "National Brisket Day",
+    "beschreibung": "Ein fleischiger Genuss – feiere Brisket und stoße mit einem Drink auf deftige Gaumenfreuden an."
+  },
+  {
+    "datum": "29.05.",
+    "name": "National Biscuit Day",
+    "beschreibung": "Ein knuspriger Anlass – feiere Kekse und stoße mit einem Drink auf süße Traditionen an."
+  },
+  {
+    "datum": "30.05.",
+    "name": "National Mint Day",
+    "beschreibung": "Ein frischer Genuss – feiere Minze und stoße mit einem Drink auf erfrischende Momente an."
+  },
+  {
+    "datum": "31.05.",
+    "name": "National Smile Day",
+    "beschreibung": "Ein Tag zum Lächeln – stoße mit einem Drink auf gute Laune und strahlende Gesichter an."
+  },
+  {
+    "datum": "01.06.",
+    "name": "Global Day of Parents",
+    "beschreibung": "Ehre die Elternschaft – stoße mit einem Drink auf all die großartigen Eltern und Familien an."
+  },
+  {
+    "datum": "02.06.",
+    "name": "National Rocky Road Day",
+    "beschreibung": "Ein süßer Genuss – feiere Rocky Road Eis und stoße mit einem Drink auf verrückte Aromen an."
+  },
+  {
+    "datum": "03.06.",
+    "name": "National Egg Day",
+    "beschreibung": "Ein runder Anlass – feiere Eier in all ihren Formen und stoße mit einem Drink auf den gelungenen Start in den Tag an."
+  },
+  {
+    "datum": "04.06.",
+    "name": "National Cheese Day",
+    "beschreibung": "Ein käsiger Genuss – feiere die Vielfalt des Käses und stoße mit einem Drink auf würzige Versuchungen an."
+  },
+  {
+    "datum": "05.06.",
+    "name": "World Environment Day",
+    "beschreibung": "Feiere unseren Planeten – stoße mit einem nachhaltigen Drink auf die Schönheit und den Schutz der Umwelt an."
+  },
+  {
+    "datum": "06.06.",
+    "name": "National Yo-Yo Day",
+    "beschreibung": "Ein verspielter Anlass – feiere den Yo-Yo-Spaß und stoße mit einem Drink auf die Höhen und Tiefen des Lebens an."
+  },
+  {
+    "datum": "07.06.",
+    "name": "National Chocolate Ice Cream Day",
+    "beschreibung": "Ein schokoladiger Genuss – feiere Eis und stoße mit einem Drink auf süße Erfrischung an."
+  },
+  {
+    "datum": "08.06.",
+    "name": "World Oceans Day",
+    "beschreibung": "Feiere die Meere – stoße mit einem Drink auf die unendliche Weite und Schönheit des Wassers an."
+  },
+  {
+    "datum": "09.06.",
+    "name": "National Strawberry Ice Cream Day",
+    "beschreibung": "Ein fruchtiger Genuss – feiere Erdbeereis und stoße mit einem Drink auf sommerliche Leichtigkeit an."
+  },
+  {
+    "datum": "10.06.",
+    "name": "National Iced Tea Day",
+    "beschreibung": "Ein erfrischender Anlass – genieße Eistee und stoße mit einem Drink auf kühle Momente an."
+  },
+  {
+    "datum": "11.06.",
+    "name": "National Corn Day",
+    "beschreibung": "Feiere den goldenen Mais – stoße mit einem Drink auf Erntefreuden und knackigen Genuss an."
+  },
+  {
+    "datum": "12.06.",
+    "name": "National Red Rose Day",
+    "beschreibung": "Ein romantischer Anlass – feiere rote Rosen und stoße mit einem Drink auf Liebe und Leidenschaft an."
+  },
+  {
+    "datum": "13.06.",
+    "name": "National Sewing Machine Day",
+    "beschreibung": "Ein kreativer Anlass – würdige handwerkliche Kunst und stoße mit einem Drink auf Präzision an."
+  },
+  {
+    "datum": "14.06.",
+    "name": "Flag Day",
+    "beschreibung": "Ein patriotischer Anlass – stoße mit einem Drink auf nationale Symbole und Einheit an."
+  },
+  {
+    "datum": "15.06.",
+    "name": "National Smile Power Day",
+    "beschreibung": "Feiere dein strahlendes Lächeln – ein Drink, der positive Energie und gute Laune versprüht."
+  },
+  {
+    "datum": "16.06.",
+    "name": "National Fudge Day",
+    "beschreibung": "Ein süßer Genuss – feiere Fudge und stoße mit einem Drink auf zuckrige Momente an."
+  },
+  {
+    "datum": "17.06.",
+    "name": "National Eat Your Vegetables Day",
+    "beschreibung": "Feiere gesunde Genüsse – stoße mit einem Drink auf bunt gemischte Vitamine und Lebensfreude an."
+  },
+  {
+    "datum": "18.06.",
+    "name": "International Picnic Day",
+    "beschreibung": "Ein Tag für Ausflüge – genieße einen Drink im Freien und feiere das Beisammensein."
+  },
+  {
+    "datum": "19.06.",
+    "name": "Juneteenth",
+    "beschreibung": "Ein bedeutender Tag der Freiheit – stoße mit einem Drink auf Geschichte, Kultur und Neubeginn an."
+  },
+  {
+    "datum": "20.06.",
+    "name": "National Vanilla Ice Cream Day",
+    "beschreibung": "Ein klassischer Genuss – feiere Vanilleeis und stoße mit einem Drink auf süße Erinnerungen an."
+  },
+  {
+    "datum": "21.06.",
+    "name": "Sommeranfang / Sommersonnenwende",
+    "beschreibung": "Feiere den längsten Tag des Jahres – stoße mit einem Drink auf die bevorstehende Wärme und Licht an."
+  },
+  {
+    "datum": "22.06.",
+    "name": "National Onion Ring Day",
+    "beschreibung": "Ein knuspriger Anlass – feiere Zwiebelringe und stoße mit einem Drink auf herzhafte Snacks an."
+  },
+  {
+    "datum": "23.06.",
+    "name": "National Pink Day",
+    "beschreibung": "Ein farbenfroher Anlass – stoße mit einem Drink in Rosa auf Freude und Kreativität an."
+  },
+  {
+    "datum": "24.06.",
+    "name": "St. Jean Baptiste Day",
+    "beschreibung": "Feiere den Schutzpatron der Franzosen in Québec – stoße mit einem Drink auf Tradition und Kultur an."
+  },
+  {
+    "datum": "25.06.",
+    "name": "National Catfish Day",
+    "beschreibung": "Ein fangfrischer Anlass – feiere Catfish und stoße mit einem Drink auf unerwartete Genüsse an."
+  },
+  {
+    "datum": "26.06.",
+    "name": "National Chocolate Pudding Day",
+    "beschreibung": "Ein schokoladiger Genuss – feiere Pudding und stoße mit einem Drink auf samtige Süße an."
+  },
+  {
+    "datum": "27.06.",
+    "name": "National Sunglasses Day",
+    "beschreibung": "Ein cooler Anlass – feiere die Sonne und stoße mit einem Drink auf schattige Erfrischung an."
+  },
+  {
+    "datum": "28.06.",
+    "name": "National Tapioca Pudding Day",
+    "beschreibung": "Feiere diesen Tag mit einem süßen Genuss – genieße Tapioka-Pudding und stoße mit einem Drink auf skurrile, leckere Momente an."
+  },
+  {
+    "datum": "29.06.",
+    "name": "National Waffle Cone Day",
+    "beschreibung": "Feiere den süßen Genuss eines knusprigen Eistüten-Desserts – ein Grund, sich einen kühlen Drink zu gönnen."
+  },
+  {
+    "datum": "30.06.",
+    "name": "National Martini Day",
+    "beschreibung": "Stoße mit einem eleganten Martini an – der perfekte Abschluss des Juni."
+  },
+  {
+    "datum": "01.07.",
+    "name": "Canada Day",
+    "beschreibung": "Feiere den kanadischen Nationalfeiertag – stoße mit einem Drink auf Ahornsirup und Freiheit an."
+  },
+  {
+    "datum": "02.07.",
+    "name": "World UFO Day",
+    "beschreibung": "Ein Tag für mysteriöse Himmelsbeobachtungen – trinke, als wärst du auf intergalaktischen Abenteuern."
+  },
+  {
+    "datum": "03.07.",
+    "name": "National Fried Chicken Day",
+    "beschreibung": "Ein knuspriger Genuss – feiere Hühnchen und stoße mit einem Drink auf deftige Aromen an."
+  },
+  {
+    "datum": "04.07.",
+    "name": "Independence Day (USA)",
+    "beschreibung": "Feiere die Unabhängigkeit – ideal für patriotische Stimmung und einen kühlen Drink."
+  },
+  {
+    "datum": "05.07.",
+    "name": "National Bikini Day",
+    "beschreibung": "Ein Tag, um die Sommermode zu feiern – genieße einen Drink und die Sonne."
+  },
+  {
+    "datum": "06.07.",
+    "name": "National Rock Day",
+    "beschreibung": "Feiere die Musik – stoße mit einem Drink auf legendäre Rock 'n' Roll-Momente an."
+  },
+  {
+    "datum": "07.07.",
+    "name": "World Chocolate Day",
+    "beschreibung": "Ein süßer Anlass – genieße Schokolade und einen Drink, der das Leben versüßt."
+  },
+  {
+    "datum": "08.07.",
+    "name": "National Video Game Day",
+    "beschreibung": "Zocke und stoße mit einem Drink auf virtuelle Abenteuer an."
+  },
+  {
+    "datum": "09.07.",
+    "name": "National Sugar Cookie Day",
+    "beschreibung": "Feiere den süßen Genuss von Keksen – ein Drink rundet das Erlebnis ab."
+  },
+  {
+    "datum": "10.07.",
+    "name": "National Piña Colada Day",
+    "beschreibung": "Tauche ein in tropische Aromen – stoße mit einem Piña Colada an."
+  },
+  {
+    "datum": "11.07.",
+    "name": "National 7-Eleven Day",
+    "beschreibung": "Feiere den kultigen Laden – genieße einen Drink und den 24/7-Spaß."
+  },
+  {
+    "datum": "12.07.",
+    "name": "National Simplicity Day",
+    "beschreibung": "Ein Tag für die einfache Freude – ein Drink, um das Schlichte zu zelebrieren."
+  },
+  {
+    "datum": "13.07.",
+    "name": "National French Fry Day",
+    "beschreibung": "Ein knuspriger Anlass – feiere Pommes und stoße mit einem Drink auf salzige Genüsse an."
+  },
+  {
+    "datum": "14.07.",
+    "name": "Bastille Day",
+    "beschreibung": "Feiere den französischen Nationalfeiertag – ideal, um mit einem Drink (vielleicht Champagner) zu prosten."
+  },
+  {
+    "datum": "15.07.",
+    "name": "National Ice Cream Day",
+    "beschreibung": "Genieße ein Eis und stoße mit einem erfrischenden Drink auf süße Momente an."
+  },
+  {
+    "datum": "16.07.",
+    "name": "World Emoji Day",
+    "beschreibung": "Feiere die Sprache der Emojis – ein Drink als Zeichen für digitale Kommunikation."
+  },
+  {
+    "datum": "17.07.",
+    "name": "National Cupcake Day",
+    "beschreibung": "Ein süßer Genuss – stoße mit einem Drink auf bunte Cupcakes und Freude an."
+  },
+  {
+    "datum": "18.07.",
+    "name": "Nelson Mandela International Day",
+    "beschreibung": "Ein Tag zur Feier von Engagement und Inspiration – stoße mit einem Drink auf Veränderung an."
+  },
+  {
+    "datum": "19.07.",
+    "name": "National Daiquiri Day",
+    "beschreibung": "Feiere den Klassiker unter den Cocktails – ein Drink, der die Sinne belebt."
+  },
+  {
+    "datum": "20.07.",
+    "name": "National Lollipop Day",
+    "beschreibung": "Ein Tag, um die süßen Freuden des Lebens zu zelebrieren – mit einem Drink und einem Lollipop."
+  },
+  {
+    "datum": "21.07.",
+    "name": "National Junk Food Day",
+    "beschreibung": "Gönn dir deine Lieblingsleckereien – stoße mit einem Drink auf unkonventionellen Genuss an."
+  },
+  {
+    "datum": "22.07.",
+    "name": "Pi Approximation Day",
+    "beschreibung": "Feiere mathematische Wunder – ein Drink als Hommage an unendliche Kreise (22/7)."
+  },
+  {
+    "datum": "23.07.",
+    "name": "National Hot Dog Day",
+    "beschreibung": "Ein würziger Anlass – genieße einen Hot Dog und stoße mit einem Drink auf amerikanische Klassiker an."
+  },
+  {
+    "datum": "24.07.",
+    "name": "National Tequila Day",
+    "beschreibung": "Feiere den feurigen Drink – stoße mit einem Tequila-Shoot an."
+  },
+  {
+    "datum": "25.07.",
+    "name": "National Wine and Cheese Day",
+    "beschreibung": "Kombiniere feinen Käse mit erlesenem Wein – stoße auf kulinarische Perfektion an."
+  },
+  {
+    "datum": "26.07.",
+    "name": "National Cousins Day",
+    "beschreibung": "Feiere die Familie – stoße mit einem Drink auf die besonderen Bande zu deinen Cousins an."
+  },
+  {
+    "datum": "27.07.",
+    "name": "National Scotch Day",
+    "beschreibung": "Ein schottischer Genuss – stoße mit einem Drink auf edlen Whisky an."
+  },
+  {
+    "datum": "28.07.",
+    "name": "National Red Wine Day",
+    "beschreibung": "Feiere die Leidenschaft des Rotweins – stoße mit einem Drink auf elegante Abende an."
+  },
+  {
+    "datum": "29.07.",
+    "name": "International Tiger Day",
+    "beschreibung": "Feiere den Schutz der majestätischen Tiger – stoße mit einem Drink auf die Wildnis an."
+  },
+  {
+    "datum": "30.07.",
+    "name": "National Cheesecake Day",
+    "beschreibung": "Genieße einen cremigen Cheesecake – ein Drink macht diesen süßen Genuss perfekt."
+  },
+  {
+    "datum": "31.07.",
+    "name": "National Avocado Day",
+    "beschreibung": "Feiere die grüne Frucht – stoße mit einem Drink auf gesunde Fette und Trendfood an."
+  },
+  {
+    "datum": "01.08.",
+    "name": "Swiss National Day",
+    "beschreibung": "Feiere die Schweiz – stoße mit einem Drink auf Käse, Uhren und Alpenluft an."
+  },
+  {
+    "datum": "02.08.",
+    "name": "National Ice Cream Sandwich Day",
+    "beschreibung": "Ein süßer Genuss – feiere Eis und stoße mit einem Drink auf erfrischende Kombinationen an."
+  },
+  {
+    "datum": "03.08.",
+    "name": "National Watermelon Day",
+    "beschreibung": "Feiere die saftige Wassermelone – ein Drink als kühler Begleiter für heiße Tage."
+  },
+  {
+    "datum": "04.08.",
+    "name": "National Chocolate Chip Cookie Day",
+    "beschreibung": "Genieße den Klassiker der Kekse – stoße mit einem Drink auf süße Schokostücke an."
+  },
+  {
+    "datum": "05.08.",
+    "name": "National Oyster Day",
+    "beschreibung": "Feiere die Delikatesse der Austern – stoße mit einem Drink (vielleicht ein Martini) auf maritime Genüsse an."
+  },
+  {
+    "datum": "06.08.",
+    "name": "National Root Beer Float Day",
+    "beschreibung": "Ein sprudelnder Genuss – feiere Root Beer Floats und stoße mit einem Drink auf nostalgische Zeiten an."
+  },
+  {
+    "datum": "07.08.",
+    "name": "National Lighthouse Day",
+    "beschreibung": "Ein Tag zur Würdigung der Leuchttürme – stoße mit einem Drink auf Orientierung und Licht an."
+  },
+  {
+    "datum": "08.08.",
+    "name": "International Cat Day",
+    "beschreibung": "Feiere die Katzen – stoße mit einem Drink auf ihre Anmut und Unabhängigkeit an."
+  },
+  {
+    "datum": "09.08.",
+    "name": "National Book Lovers Day",
+    "beschreibung": "Ein literarischer Anlass – stoße mit einem Drink auf Geschichten und Fantasie an."
+  },
+  {
+    "datum": "10.08.",
+    "name": "National S'mores Day",
+    "beschreibung": "Ein Lagerfeuer-Genuss – feiere S'mores und stoße mit einem Drink auf süße Marshmallows an."
+  },
+  {
+    "datum": "11.08.",
+    "name": "National Sons and Daughters Day",
+    "beschreibung": "Feiere die Familie – stoße mit einem Drink auf die Liebe zu deinen Kindern an."
+  },
+  {
+    "datum": "12.08.",
+    "name": "International Youth Day",
+    "beschreibung": "Ein Tag zur Feier der Jugend – stoße mit einem Drink auf frische Ideen und Energie an."
+  },
+  {
+    "datum": "13.08.",
+    "name": "National Filet Mignon Day",
+    "beschreibung": "Ein feiner Genuss – stoße mit einem Drink auf edle Fleischkreationen an."
+  },
+  {
+    "datum": "14.08.",
+    "name": "National Creamsicle Day",
+    "beschreibung": "Feiere den cremigen Zitrusgenuss – ein Drink rundet diesen süßen Tag ab."
+  },
+  {
+    "datum": "15.08.",
+    "name": "Independence Day (Indien)",
+    "beschreibung": "Feiere den indischen Nationalfeiertag – stoße mit einem Drink auf Freiheit und Vielfalt an."
+  },
+  {
+    "datum": "16.08.",
+    "name": "National Rum Day",
+    "beschreibung": "Ein karibischer Genuss – stoße mit einem Drink (Rum) auf tropische Abenteuer an."
+  },
+  {
+    "datum": "17.08.",
+    "name": "National Thrift Shop Day",
+    "beschreibung": "Feiere nachhaltigen Konsum – stoße mit einem Drink auf clevere Schnäppchen und Stil an."
+  },
+  {
+    "datum": "18.08.",
+    "name": "National Fajita Day",
+    "beschreibung": "Feiere würzige Genüsse – stoße mit einem Drink auf mexikanische Aromen an."
+  },
+  {
+    "datum": "19.08.",
+    "name": "National Aviation Day",
+    "beschreibung": "Ehre die Luftfahrtpioniere – stoße mit einem Drink auf den Flug in neue Höhen an."
+  },
+  {
+    "datum": "20.08.",
+    "name": "National Radio Day",
+    "beschreibung": "Feiere die Magie des Radios – stoße mit einem Drink auf unvergessliche Melodien an."
+  },
+  {
+    "datum": "21.08.",
+    "name": "National Spumoni Day",
+    "beschreibung": "Ein farbenfroher Genuss – feiere das italienische Eis und stoße mit einem Drink auf süße Vielfalt an."
+  },
+  {
+    "datum": "22.08.",
+    "name": "National Bao Day",
+    "beschreibung": "Feiere die asiatische Delikatesse – stoße mit einem Drink auf dampfende Bao-Brötchen an."
+  },
+  {
+    "datum": "23.08.",
+    "name": "National Sponge Cake Day",
+    "beschreibung": "Ein fluffiger Genuss – stoße mit einem Drink auf zarte Kuchenfreuden an."
+  },
+  {
+    "datum": "24.08.",
+    "name": "National Waffle Day",
+    "beschreibung": "Feiere knusprige Waffeln – ein Drink als perfekter Begleiter zu diesem süßen Genuss."
+  },
+  {
+    "datum": "25.08.",
+    "name": "National Banana Split Day",
+    "beschreibung": "Feiere den Klassiker des Eisdesserts – stoße mit einem Drink auf süße Momente an."
+  },
+  {
+    "datum": "26.08.",
+    "name": "National Dog Day",
+    "beschreibung": "Ehre deinen besten Freund – stoße mit einem Drink auf die Treue und Lebensfreude deines Hundes an."
+  },
+  {
+    "datum": "27.08.",
+    "name": "National Just Because Day",
+    "beschreibung": "Ein Tag ohne besonderen Anlass – stoße mit einem Drink einfach mal so an."
+  },
+  {
+    "datum": "28.08.",
+    "name": "National Cherry Turnover Day",
+    "beschreibung": "Feiere die süße Fruchtfüllung – ein Drink rundet diesen fruchtigen Tag ab."
+  },
+  {
+    "datum": "29.08.",
+    "name": "National Chop Suey Day",
+    "beschreibung": "Ein bunter Genuss – stoße mit einem Drink auf asiatische Fusion-Küche an."
+  },
+  {
+    "datum": "30.08.",
+    "name": "National Beach Day",
+    "beschreibung": "Feiere den Sommer und das Meer – stoße mit einem Drink an, während du den Strand genießt."
+  },
+  {
+    "datum": "31.08.",
+    "name": "National Trail Mix Day",
+    "beschreibung": "Ein gesunder Snack-Tag – stoße mit einem Drink auf die perfekte Mischung aus Süß und Salzig an."
+  },
+  {
+    "datum": "01.09.",
+    "name": "National No Rhyme (Nor Reason) Day",
+    "beschreibung": "Ein Tag der Absurdität – stoße mit einem Drink auf die Freude am Unlogischen an."
+  },
+  {
+    "datum": "02.09.",
+    "name": "National Blueberry Popsicle Day",
+    "beschreibung": "Ein erfrischender Genuss – feiere Blaubeer-Eis und stoße mit einem Drink auf sommerliche Erinnerungen an."
+  },
+  {
+    "datum": "03.09.",
+    "name": "National Welsh Rarebit Day",
+    "beschreibung": "Feiere den britischen Käsegenuss – stoße mit einem Drink auf herzhafte Leckereien an."
+  },
+  {
+    "datum": "04.09.",
+    "name": "National Drink Wine Day",
+    "beschreibung": "Ein Tag für Weinliebhaber – stoße mit einem Drink auf edle Trauben an."
+  },
+  {
+    "datum": "05.09.",
+    "name": "International Day of Charity",
+    "beschreibung": "Feiere die Solidarität – stoße mit einem Drink auf das Geben und Empfangen an."
+  },
+  {
+    "datum": "06.09.",
+    "name": "National Coffee Ice Cream Day",
+    "beschreibung": "Ein kühler Genuss – feiere Kaffee-Eis und stoße mit einem Drink auf cremige Erfrischung an."
+  },
+  {
+    "datum": "07.09.",
+    "name": "National Beer Lover's Day",
+    "beschreibung": "Feiere den geliebten Gerstensaft – stoße mit einem Drink auf hopfige Aromen an."
+  },
+  {
+    "datum": "08.09.",
+    "name": "International Literacy Day",
+    "beschreibung": "Feiere die Macht der Worte – stoße mit einem Drink auf Bildung und Geschichten an."
+  },
+  {
+    "datum": "09.09.",
+    "name": "National Teddy Bear Day",
+    "beschreibung": "Ein Tag der Kindheit – stoße mit einem Drink auf nostalgische Erinnerungen an."
+  },
+  {
+    "datum": "10.09.",
+    "name": "National TV Dinner Day",
+    "beschreibung": "Feiere den Klassiker des schnellen Essens – stoße mit einem Drink auf bequeme Abende an."
+  },
+  {
+    "datum": "11.09.",
+    "name": "Patriot Day (USA)",
+    "beschreibung": "Ein Tag des Gedenkens – stoße mit einem Drink auf Erinnerung und Zusammenhalt an."
+  },
+  {
+    "datum": "12.09.",
+    "name": "National Chocolate Milk Day",
+    "beschreibung": "Ein süßer Genuss – feiere Schokoladenmilch und stoße mit einem Drink auf kindliche Freude an."
+  },
+  {
+    "datum": "13.09.",
+    "name": "National Peanut Day",
+    "beschreibung": "Feiere den nussigen Genuss – stoße mit einem Drink auf Erdnüsse und leckere Snacks an."
+  },
+  {
+    "datum": "14.09.",
+    "name": "National Cream-Filled Donut Day",
+    "beschreibung": "Ein süßer Genuss – stoße mit einem Drink auf gefüllte Donuts und Naschkatzenmomente an."
+  },
+  {
+    "datum": "15.09.",
+    "name": "International Day of Democracy",
+    "beschreibung": "Feiere die Demokratie – stoße mit einem Drink auf Freiheit und Mitbestimmung an."
+  },
+  {
+    "datum": "16.09.",
+    "name": "National Guacamole Day",
+    "beschreibung": "Feiere den mexikanischen Klassiker – stoße mit einem Drink auf cremige Avocado-Magie an."
+  },
+  {
+    "datum": "17.09.",
+    "name": "National Apple Dumpling Day",
+    "beschreibung": "Ein herbstlicher Genuss – stoße mit einem Drink auf Apfeltaschen und warme Erinnerungen an."
+  },
+  {
+    "datum": "18.09.",
+    "name": "National Cheeseburger Day",
+    "beschreibung": "Feiere den amerikanischen Klassiker – stoße mit einem Drink auf saftige Burger an."
+  },
+  {
+    "datum": "19.09.",
+    "name": "National Butterscotch Pudding Day",
+    "beschreibung": "Ein süßer Anlass – feiere Butterscotch-Pudding und stoße mit einem Drink auf samtige Süße an."
+  },
+  {
+    "datum": "20.09.",
+    "name": "International Day of Peace",
+    "beschreibung": "Feiere den Frieden – stoße mit einem Drink auf Harmonie und Zusammenhalt an."
+  },
+  {
+    "datum": "21.09.",
+    "name": "National Pecan Pie Day",
+    "beschreibung": "Ein nussiger Genuss – feiere den klassischen Kuchen und stoße mit einem Drink auf süße Traditionen an."
+  },
+  {
+    "datum": "22.09.",
+    "name": "Autumnal Equinox",
+    "beschreibung": "Feiere den Beginn des Herbstes – stoße mit einem Drink auf die neue Jahreszeit an."
+  },
+  {
+    "datum": "23.09.",
+    "name": "National White Chocolate Day",
+    "beschreibung": "Feiere die süße Variante – stoße mit einem Drink auf cremigen Schokoladengenuss an."
+  },
+  {
+    "datum": "24.09.",
+    "name": "National Eat Your Yoghurt Day",
+    "beschreibung": "Ein gesunder Genuss – feiere Joghurt und stoße mit einem Drink auf probiotische Freuden an."
+  },
+  {
+    "datum": "25.09.",
+    "name": "National Comic Book Day",
+    "beschreibung": "Feiere die Welt der Comics – stoße mit einem Drink auf Helden und Abenteuer an."
+  },
+  {
+    "datum": "26.09.",
+    "name": "National Pancake Day",
+    "beschreibung": "Ein köstlicher Anlass – feiere Pfannkuchen und stoße mit einem Drink auf den süßen Genuss an."
+  },
+  {
+    "datum": "27.09.",
+    "name": "National Chocolate Milkshake Day",
+    "beschreibung": "Feiere den cremigen Genuss – stoße mit einem Drink auf schokoladige Momente an."
+  },
+  {
+    "datum": "28.09.",
+    "name": "National Good Neighbor Day",
+    "beschreibung": "Ein Tag der Gemeinschaft – stoße mit einem Drink auf Freundschaft und Nachbarschaft an."
+  },
+  {
+    "datum": "29.09.",
+    "name": "National Coffee Day",
+    "beschreibung": "Feiere den Muntermacher – stoße mit einem Drink auf aromatischen Kaffee an."
+  },
+  {
+    "datum": "30.09.",
+    "name": "National Hot Mulled Cider Day",
+    "beschreibung": "Ein herbstlicher Genuss – feiere gewürzten Apfelwein und stoße mit einem Drink auf warme Abende an."
+  },
+  {
+    "datum": "01.10.",
+    "name": "International Coffee Day",
+    "beschreibung": "Feiere die Magie des Kaffees – stoße mit einem Drink auf aromatische Bohnen an."
+  },
+  {
+    "datum": "02.10.",
+    "name": "Gandhi Jayanti (Indien)",
+    "beschreibung": "Feiere Mahatma Gandhi – stoße mit einem Drink auf Frieden und Wahrheit an."
+  },
+  {
+    "datum": "03.10.",
+    "name": "German Unity Day",
+    "beschreibung": "Feiere die Wiedervereinigung – stoße mit einem Drink auf Einheit und Zusammenhalt an."
+  },
+  {
+    "datum": "04.10.",
+    "name": "National Taco Day",
+    "beschreibung": "Feiere den mexikanischen Klassiker – stoße mit einem Drink auf würzige Tacos an."
+  },
+  {
+    "datum": "05.10.",
+    "name": "World Teachers' Day",
+    "beschreibung": "Ehre die Lehrer – stoße mit einem Drink auf Bildung und Inspiration an."
+  },
+  {
+    "datum": "06.10.",
+    "name": "National Noodle Day",
+    "beschreibung": "Feiere Pasta und Nudeln – stoße mit einem Drink auf italienische und asiatische Genüsse an."
+  },
+  {
+    "datum": "07.10.",
+    "name": "National Dessert Day",
+    "beschreibung": "Genieße süße Versuchungen – stoße mit einem Drink auf Desserts und Lebensfreude an."
+  },
+  {
+    "datum": "08.10.",
+    "name": "National Pierogi Day",
+    "beschreibung": "Feiere die polnische Spezialität – stoße mit einem Drink auf Teigtaschen und Tradition an."
+  },
+  {
+    "datum": "09.10.",
+    "name": "Columbus Day (USA)",
+    "beschreibung": "Gedenke der Entdeckungsreisen – stoße mit einem Drink auf Abenteuer und Neuanfänge an."
+  },
+  {
+    "datum": "10.10.",
+    "name": "National Handbag Day",
+    "beschreibung": "Ein stylischer Anlass – stoße mit einem Drink auf Mode und Lebensfreude an."
+  },
+  {
+    "datum": "11.10.",
+    "name": "National Coming Out Day",
+    "beschreibung": "Feiere Authentizität und Mut – stoße mit einem Drink auf Vielfalt und Selbstliebe an."
+  },
+  {
+    "datum": "12.10.",
+    "name": "Navy Day (USA)",
+    "beschreibung": "Ehre die Seestreitkräfte – stoße mit einem Drink auf maritime Traditionen an."
+  },
+  {
+    "datum": "13.10.",
+    "name": "National No Bra Day",
+    "beschreibung": "Ein Tag der Befreiung – stoße mit einem Drink auf Selbstakzeptanz und Humor an."
+  },
+  {
+    "datum": "14.10.",
+    "name": "National Dessert Day",
+    "beschreibung": "Nochmals süß – stoße mit einem Drink auf doppelte Freude an Desserts an."
+  },
+  {
+    "datum": "15.10.",
+    "name": "Global Handwashing Day",
+    "beschreibung": "Feiere Hygiene – stoße mit einem Drink auf saubere Hände und Gesundheit an."
+  },
+  {
+    "datum": "16.10.",
+    "name": "Boss's Day (USA)",
+    "beschreibung": "Ehre deine Chefs – stoße mit einem Drink auf Führung und Teamgeist an."
+  },
+  {
+    "datum": "17.10.",
+    "name": "National Pasta Day",
+    "beschreibung": "Feiere den Teiggenuss – stoße mit einem Drink auf Pasta und italienische Lebensfreude an."
+  },
+  {
+    "datum": "18.10.",
+    "name": "National Chocolate Cupcake Day",
+    "beschreibung": "Ein süßer Genuss – feiere Cupcakes und stoße mit einem Drink auf Schokolade an."
+  },
+  {
+    "datum": "19.10.",
+    "name": "National Seafood Bisque Day",
+    "beschreibung": "Ein delikater Genuss – stoße mit einem Drink auf cremige Meeresfrüchte an."
+  },
+  {
+    "datum": "20.10.",
+    "name": "National Brandied Fruit Day",
+    "beschreibung": "Feiere den Likör – stoße mit einem Drink auf brandy-geschmorte Früchte an."
+  },
+  {
+    "datum": "21.10.",
+    "name": "National Pumpkin Day",
+    "beschreibung": "Feiere den Herbst – stoße mit einem Drink auf Kürbis und saisonale Genüsse an."
+  },
+  {
+    "datum": "22.10.",
+    "name": "National Nut Day",
+    "beschreibung": "Feiere die nussigen Aromen – stoße mit einem Drink auf Mandeln und Walnüsse an."
+  },
+  {
+    "datum": "23.10.",
+    "name": "National Boston Cream Pie Day",
+    "beschreibung": "Ein cremiger Genuss – stoße mit einem Drink auf Boston Cream Pie an."
+  },
+  {
+    "datum": "24.10.",
+    "name": "United Nations Day",
+    "beschreibung": "Feiere die internationale Zusammenarbeit – stoße mit einem Drink auf globale Einheit an."
+  },
+  {
+    "datum": "25.10.",
+    "name": "National Greasy Food Day",
+    "beschreibung": "Ein kulinarischer Spaß – stoße mit einem Drink auf deftige, fettige Leckereien an."
+  },
+  {
+    "datum": "26.10.",
+    "name": "National Pumpkin Bread Day",
+    "beschreibung": "Ein herbstlicher Genuss – stoße mit einem Drink auf Kürbisbrot und Gemütlichkeit an."
+  },
+  {
+    "datum": "27.10.",
+    "name": "National Black Cat Day",
+    "beschreibung": "Feiere die mystische Eleganz – stoße mit einem Drink auf schwarze Katzen und Aberglauben an."
+  },
+  {
+    "datum": "28.10.",
+    "name": "National Chocolate Day",
+    "beschreibung": "Ein Tag für Schokoladenliebhaber – stoße mit einem Drink auf süße Versuchung an."
+  },
+  {
+    "datum": "29.10.",
+    "name": "National Candy Day",
+    "beschreibung": "Feiere bunte Süßigkeiten – stoße mit einem Drink auf zuckersüße Momente an."
+  },
+  {
+    "datum": "30.10.",
+    "name": "National Scrapple Day",
+    "beschreibung": "Ein besonderer Genuss – stoße mit einem Drink auf regionale Spezialitäten an."
+  },
+  {
+    "datum": "31.10.",
+    "name": "Halloween",
+    "beschreibung": "Feiere den gruseligen Abend – stoße mit einem Drink auf Spukgeschichten und Maskerade an."
+  },
+  {
+    "datum": "01.11.",
+    "name": "Allerheiligen",
+    "beschreibung": "Gedenke der Verstorbenen – stoße mit einem Drink auf das Gedenken und das Leben an."
+  },
+  {
+    "datum": "02.11.",
+    "name": "Allerseelen",
+    "beschreibung": "Ein Tag des Gedenkens – stoße mit einem Drink auf Erinnerungen und Ehrfurcht an."
+  },
+  {
+    "datum": "03.11.",
+    "name": "National Sandwich Day",
+    "beschreibung": "Feiere den Klassiker – stoße mit einem Drink auf belegte Brote und leckere Füllungen an."
+  },
+  {
+    "datum": "04.11.",
+    "name": "National Candy Day",
+    "beschreibung": "Ein süßer Genuss – stoße mit einem Drink auf bunte Süßigkeiten an."
+  },
+  {
+    "datum": "05.11.",
+    "name": "Guy Fawkes Night",
+    "beschreibung": "Feiere den britischen Brauch – stoße mit einem Drink auf Funken und Feuer an."
+  },
+  {
+    "datum": "06.11.",
+    "name": "National Nachos Day",
+    "beschreibung": "Ein würziger Genuss – stoße mit einem Drink auf knusprige Nachos und Käsesauce an."
+  },
+  {
+    "datum": "07.11.",
+    "name": "National Bittersweet Chocolate Day",
+    "beschreibung": "Feiere die Mischung aus süß und herb – stoße mit einem Drink auf Schokolade an."
+  },
+  {
+    "datum": "08.11.",
+    "name": "National Cappuccino Day",
+    "beschreibung": "Ein aromatischer Genuss – stoße mit einem Drink auf cremigen Cappuccino an."
+  },
+  {
+    "datum": "09.11.",
+    "name": "International Sandwich Day",
+    "beschreibung": "Feiere den universellen Snack – stoße mit einem Drink auf Vielfalt und Genuss an."
+  },
+  {
+    "datum": "10.11.",
+    "name": "World Kindness Day",
+    "beschreibung": "Verbreite Güte – stoße mit einem Drink auf Freundlichkeit und Mitgefühl an."
+  },
+  {
+    "datum": "11.11.",
+    "name": "Singles' Day (China)",
+    "beschreibung": "Feiere die Unabhängigkeit – stoße mit einem Drink auf die Freude an der Selbstliebe an."
+  },
+  {
+    "datum": "12.11.",
+    "name": "National Pizza with the Works Day",
+    "beschreibung": "Ein kulinarischer Genuss – stoße mit einem Drink auf reich belegte Pizza an."
+  },
+  {
+    "datum": "14.11.",
+    "name": "National Pickle Day",
+    "beschreibung": "Ein salziger Genuss – stoße mit einem Drink auf Essiggurken und überraschende Aromen an."
+  },
+  {
+    "datum": "15.11.",
+    "name": "National Clean Out Your Refrigerator Day",
+    "beschreibung": "Ein Anlass, um Ordnung zu schaffen – stoße mit einem Drink auf frische Neuanfänge an."
+  },
+  {
+    "datum": "16.11.",
+    "name": "National Fast Food Day",
+    "beschreibung": "Feiere den schnellen Genuss – stoße mit einem Drink auf Burger, Pommes und mehr an."
+  },
+  {
+    "datum": "17.11.",
+    "name": "National Homemade Bread Day",
+    "beschreibung": "Feiere das Bäckerhandwerk – stoße mit einem Drink auf frisch gebackenes Brot an."
+  },
+  {
+    "datum": "18.11.",
+    "name": "National Port Day",
+    "beschreibung": "Ein edler Genuss – stoße mit einem Drink (Portwein) auf reiche Aromen an."
+  },
+  {
+    "datum": "19.11.",
+    "name": "National Carbonated Beverage Day",
+    "beschreibung": "Feiere sprudelnde Erfrischung – stoße mit einem Drink auf prickelnde Momente an."
+  },
+  {
+    "datum": "20.11.",
+    "name": "Universal Children's Day",
+    "beschreibung": "Feiere die Zukunft – stoße mit einem Drink auf kindliche Freude und Hoffnung an."
+  },
+  {
+    "datum": "21.11.",
+    "name": "National Stuffing Day",
+    "beschreibung": "Ein herbstlicher Genuss – stoße mit einem Drink auf reichhaltige Füllungen an."
+  },
+  {
+    "datum": "22.11.",
+    "name": "Thanksgiving (USA)",
+    "beschreibung": "Ein Fest der Dankbarkeit – stoße mit einem Drink auf Familie, Freunde und reichliche Ernte an."
+  },
+  {
+    "datum": "23.11.",
+    "name": "Black Friday",
+    "beschreibung": "Feiere den Shopping-Wahnsinn – stoße mit einem Drink auf Schnäppchen und Abenteuer an."
+  },
+  {
+    "datum": "24.11.",
+    "name": "Small Business Saturday",
+    "beschreibung": "Unterstütze lokale Geschäfte – stoße mit einem Drink auf Unternehmergeist und Gemeinschaft an."
+  },
+  {
+    "datum": "25.11.",
+    "name": "National Parfait Day",
+    "beschreibung": "Ein schichtiger Genuss – feiere Parfaits und stoße mit einem Drink auf kreative Süßspeisen an."
+  },
+  {
+    "datum": "26.11.",
+    "name": "National Cake Day",
+    "beschreibung": "Feiere den Kuchen – stoße mit einem Drink auf süße Versuchungen und Festlichkeit an."
+  },
+  {
+    "datum": "27.11.",
+    "name": "National Bavarian Pretzel Day",
+    "beschreibung": "Ein käsiger Genuss – stoße mit einem Drink auf Brezeln und bayerische Gemütlichkeit an."
+  },
+  {
+    "datum": "28.11.",
+    "name": "National French Toast Day",
+    "beschreibung": "Feiere den Frühstücksklassiker – stoße mit einem Drink auf knusprige French Toasts an."
+  },
+  {
+    "datum": "29.11.",
+    "name": "National Mousse Day",
+    "beschreibung": "Ein schaumiger Genuss – stoße mit einem Drink auf luftig-leichte Desserts an."
+  },
+  {
+    "datum": "30.11.",
+    "name": "St. Andrew's Day (Schottland)",
+    "beschreibung": "Feiere den Schutzpatron Schottlands – stoße mit einem Drink auf Tradition und Whisky an."
+  },
+  {
+    "datum": "01.12.",
+    "name": "World AIDS Day",
+    "beschreibung": "Ein Tag des Gedenkens und der Aufklärung – stoße mit einem Drink auf Hoffnung und Solidarität an."
+  },
+  {
+    "datum": "02.12.",
+    "name": "National Fritters Day",
+    "beschreibung": "Feiere die frittierten Köstlichkeiten – stoße mit einem Drink auf knusprige Genüsse an."
+  },
+  {
+    "datum": "03.12.",
+    "name": "National Roof Over Your Head Day",
+    "beschreibung": "Ein Tag, um dankbar zu sein – stoße mit einem Drink auf ein warmes Zuhause an."
+  },
+  {
+    "datum": "04.12.",
+    "name": "National Cookie Day",
+    "beschreibung": "Feiere den Keks – stoße mit einem Drink auf süße und knusprige Momente an."
+  },
+  {
+    "datum": "05.12.",
+    "name": "International Volunteer Day",
+    "beschreibung": "Ehre das Engagement – stoße mit einem Drink auf Freiwilligenarbeit und Gemeinschaft an."
+  },
+  {
+    "datum": "06.12.",
+    "name": "St. Nicholas Day",
+    "beschreibung": "Feiere den heiligen Nikolaus – stoße mit einem Drink auf Großzügigkeit und Tradition an."
+  },
+  {
+    "datum": "07.12.",
+    "name": "National Pearl Harbor Remembrance Day",
+    "beschreibung": "Gedenke historischer Ereignisse – stoße mit einem Drink auf Erinnerung und Frieden an."
+  },
+  {
+    "datum": "08.12.",
+    "name": "Feast of the Immaculate Conception",
+    "beschreibung": "Ein religiöser Feiertag – stoße mit einem Drink auf Glauben und Tradition an."
+  },
+  {
+    "datum": "09.12.",
+    "name": "National Pastry Day",
+    "beschreibung": "Feiere süße Backwaren – stoße mit einem Drink auf köstliche Leckereien an."
+  },
+  {
+    "datum": "10.12.",
+    "name": "Human Rights Day",
+    "beschreibung": "Feiere die universellen Menschenrechte – stoße mit einem Drink auf Freiheit und Gerechtigkeit an."
+  },
+  {
+    "datum": "11.12.",
+    "name": "National Noodle Ring Day",
+    "beschreibung": "Ein verspielter Genuss – stoße mit einem Drink auf runde Nudelformen an."
+  },
+  {
+    "datum": "12.12.",
+    "name": "National Ding Dong Day",
+    "beschreibung": "Ein skurriler Anlass – stoße mit einem Drink auf laute und fröhliche Momente an."
+  },
+  {
+    "datum": "13.12.",
+    "name": "National Cocoa Day",
+    "beschreibung": "Feiere den warmen Genuss – stoße mit einem Drink auf Schokolade und Gemütlichkeit an."
+  },
+  {
+    "datum": "14.12.",
+    "name": "National Bouillabaisse Day",
+    "beschreibung": "Feiere den französischen Fischeintopf – stoße mit einem Drink auf mediterrane Aromen an."
+  },
+  {
+    "datum": "15.12.",
+    "name": "National Cupcake Day",
+    "beschreibung": "Feiere süße Leckereien – stoße mit einem Drink auf bunte Cupcakes an."
+  },
+  {
+    "datum": "16.12.",
+    "name": "National Chocolate-Covered Anything Day",
+    "beschreibung": "Ein Tag für Schokofans – stoße mit einem Drink auf jede schokoladige Versuchung an."
+  },
+  {
+    "datum": "17.12.",
+    "name": "National Maple Syrup Day",
+    "beschreibung": "Feiere den süßen Saft der Ahornbäume – stoße mit einem Drink auf kanadische Tradition an."
+  },
+  {
+    "datum": "18.12.",
+    "name": "National Roast Suckling Pig Day",
+    "beschreibung": "Ein herzhafter Genuss – stoße mit einem Drink auf traditionelle Festmahle an."
+  },
+  {
+    "datum": "19.12.",
+    "name": "National Hard Candy Day",
+    "beschreibung": "Ein süßer Genuss – stoße mit einem Drink auf harte, zuckrige Leckereien an."
+  },
+  {
+    "datum": "20.12.",
+    "name": "National Sangria Day",
+    "beschreibung": "Feiere den spanischen Genuss – stoße mit einem Drink auf fruchtige Sangria an."
+  },
+  {
+    "datum": "21.12.",
+    "name": "Winter Solstice",
+    "beschreibung": "Feiere den kürzesten Tag – stoße mit einem Drink auf das Licht und die Rückkehr der Sonne an."
+  },
+  {
+    "datum": "22.12.",
+    "name": "National Date Nut Bread Day",
+    "beschreibung": "Ein nussiger Genuss – stoße mit einem Drink auf traditionelle Rezepte an."
+  },
+  {
+    "datum": "23.12.",
+    "name": "Festivus",
+    "beschreibung": "Ein moderner Feiertag – stoße mit einem Drink auf Humor und Sarkasmus an."
+  },
+  {
+    "datum": "24.12.",
+    "name": "Heiligabend",
+    "beschreibung": "Feiere die besinnliche Nacht – stoße mit einem Drink auf Familie, Liebe und Weihnachtsstimmung an."
+  },
+  {
+    "datum": "25.12.",
+    "name": "Weihnachten",
+    "beschreibung": "Feiere das christliche Fest – stoße mit einem Drink auf Freude, Zusammenhalt und Besinnlichkeit an."
+  },
+  {
+    "datum": "26.12.",
+    "name": "Zweiter Weihnachtstag",
+    "beschreibung": "Ein Tag der Fortsetzung – stoße mit einem Drink auf Erholung und Festlichkeit an."
+  },
+  {
+    "datum": "27.12.",
+    "name": "National Chocolate Day",
+    "beschreibung": "Noch einmal süße Versuchung – stoße mit einem Drink auf Schokolade und Genuss an."
+  },
+  {
+    "datum": "28.12.",
+    "name": "National Card Playing Day",
+    "beschreibung": "Feiere das Kartenspiel – stoße mit einem Drink auf Spiel und Spaß an."
+  },
+  {
+    "datum": "29.12.",
+    "name": "National Pepper Pot Day",
+    "beschreibung": "Ein würziger Genuss – stoße mit einem Drink auf exotische Aromen an."
+  },
+  {
+    "datum": "30.12.",
+    "name": "National Bacon Day",
+    "beschreibung": "Feiere den knusprigen Genuss – stoße mit einem Drink auf Speck und herzhaften Genuss an."
+  },
+  {
+    "datum": "31.12.",
+    "name": "Silvester",
+    "beschreibung": "Feiere den Jahreswechsel – stoße mit einem Drink auf das alte Jahr und die Hoffnung für das Neue an."
+  }
+]
