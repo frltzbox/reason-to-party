@@ -1,36 +1,57 @@
 import React, { useState, useEffect } from 'react';
-import { SafeAreaView, View, Text, StyleSheet, Dimensions } from 'react-native';
+import { SafeAreaView, View, Text, StyleSheet, Dimensions, TouchableOpacity } from 'react-native';
+import DateTimePicker from '@react-native-community/datetimepicker';
 import eventData from './data.json';
+import Firework from './Fireworks';
 
 const { width } = Dimensions.get('window');
 const scale = width / 375;
 
 export default function App() {
   const [event, setEvent] = useState(null);
+  const [selectedDate, setSelectedDate] = useState(new Date());
+  const [showPicker, setShowPicker] = useState(false);
 
   useEffect(() => {
-    const today = new Date();
-    const formattedDate = today.toLocaleDateString('de-DE', {
+    const formattedDate = selectedDate.toLocaleDateString('de-DE', {
       day: '2-digit',
       month: '2-digit'
     });
     const todayEvent = eventData.find(item => item.datum === formattedDate);
     setEvent(todayEvent);
-  }, []);
+  }, [selectedDate]);
+
+  const onChange = (event, date) => {
+    setShowPicker(false);
+    if (date) {
+      setSelectedDate(date);
+    }
+  };
 
   return (
     <SafeAreaView style={styles.safeArea}>
       <View style={styles.header}>
-        <Text style={styles.date}>
-          {new Date().toLocaleDateString('de-DE', {
-            weekday: 'long',
-            day: '2-digit',
-            month: 'long',
-            year: 'numeric'
-          })}
-        </Text>
+        <TouchableOpacity onPress={() => setShowPicker(true)}>
+          <Text style={styles.date}>
+            {selectedDate.toLocaleDateString('de-DE', {
+              weekday: 'long',
+              day: '2-digit',
+              month: 'long',
+              year: 'numeric'
+            })}
+          </Text>
+        </TouchableOpacity>
+        {showPicker && (
+          <DateTimePicker
+            value={selectedDate}
+            mode="date"
+            display="default"
+            onChange={onChange}
+          />
+        )}
       </View>
       <View style={styles.container}>
+        <Firework />
         <View style={styles.textContainer}>
           {event ? (
             <>
@@ -54,13 +75,11 @@ const styles = StyleSheet.create({
   header: {
     padding: 20,
     marginTop: 30,
-    marginBottom:0,
-    alignSelf:"flex-start",
+    alignSelf: "flex-start",
     borderRadius: 10,
-    backgroundColor: '#1E1E1E', // Optional: Different shade for header
   },
   date: {
-    fontSize: 10 * scale,
+    fontSize: 14 * scale,
     fontWeight: 'italic',
     color: '#FFFFFF',
     textAlign: 'left',
